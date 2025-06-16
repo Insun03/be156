@@ -1,0 +1,5 @@
+// 1. oz adinizi ascii table-dan tabip fayla yazidirirsiniz.
+// 2. vurma cedvelini yeni bir fayl yaradib ora yazdirin
+// 3. funksiya yazin,funksiyani cagirib arqument yollayaq,yolladigimiz fayl varsa onu silsin yoxdursa desin bele fayl yoxdur
+Task1. Fayldan yazıları oxuyun, uppercase edib digər fayla yazın. 
+Task2. Funksiya yaradın. Belə ki, onun işi kopyalamaq olsun. 2 dənə string alsın, faylın adları. Birinci faylı kopyalasın ikinci fayl yaratsın
